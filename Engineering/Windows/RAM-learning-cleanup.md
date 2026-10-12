@@ -301,8 +301,3 @@ Measure again
   ↓
 4.7 GB / 7.8 GB
 ```
-
-
-### 11. After js what should i learn:
-
-* learn typescript and get better at backend development
